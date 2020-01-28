@@ -1,1 +1,4 @@
 this is search file
+
+New line added
+
