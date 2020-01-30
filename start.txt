@@ -4,3 +4,6 @@ Third line into master
 Fourth line loacal test
 
 Stash File
+
+Compare tags
+
